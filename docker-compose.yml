@@ -5,4 +5,4 @@ services:
     ports:
       - '4200:4200'
     volumes:
-      - '.:/onbitformsclient'
+      - '.:/onbitforms-client'
